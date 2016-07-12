@@ -1,0 +1,10 @@
+com\reap\springmvc\dao\LoginDAOImpl.class
+com\reap\springmvc\configuration\AppConfig.class
+com\reap\springmvc\configuration\HibernateConfiguration.class
+com\reap\springmvc\configuration\AppInitializer.class
+com\reap\springmvc\model\Users.class
+com\reap\springmvc\controller\LoginController.class
+com\reap\springmvc\model\LoginForm.class
+com\reap\springmvc\service\LoginServiceImpl.class
+com\reap\springmvc\dao\LoginDAO.class
+com\reap\springmvc\service\LoginService.class
